@@ -1,0 +1,19 @@
+Item,Probability(0-100),Impact(0-100),Risk (P*I),Date Recognized,Mitigated/Resolved,ROAM,How
+Haven't Used LCD(Didn't work for Lab7),10,70,700,3/23,Resolved,R,Test LCD with supplied programming
+Compiler Construction taking too much of my time,50,40,2000,3/23, Resolved,R,Owned By Will
+Unsure Why Capacitor is broken,5,50,250,4/7,N/A,O,Noticed and documented 
+Unsure of how exactly to do LED timer,5,50,250,4/7,Resolved,M,Spoke with Professor
+Task changing stopped working,10,100,1000,4/12,OCCURED,O,Redoing with TA Will's Lab 7
+Simplicity Studio is optimizing things out,25,10,250,4/12,N/A,A,Asking about in Lab 4/14
+Unable to impliment Physics Logic Bc couldn't test in advance ,50,50,2500,4/20,N/A,A,Handling first after implementation
+Handling lists of objects is too hard for Memory to handle ,2,100,200,4/20,Mitigated,M,Optimized objects size
+Handling too many Timers ,5,100,500,4/27,N/A,O,Owned by Will
+Having the LCD look good,2,2,4,4/27,Resolved,R,Artistic genuis
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
+,,,0,,,,
